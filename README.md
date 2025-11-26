@@ -6,7 +6,7 @@ To Build-and-deploy-your-own-deep-neural-network-on-a-website-using-tensor-flow.
 
 ### ALGORITHM
 
-#### Step 1 — Build Your Neural Network in TensorFlow
+#### Step 1 — Build Your Neural Network in TensorFlow.
 
        1. Create a deep learning model using TensorFlow/Keras.
 
